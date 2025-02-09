@@ -1,3 +1,8 @@
 # Amazon-sales
-## it help's to increase reduce the cancellation rate and Return rate
-## that helpes to increse the revneue of the compny
+## Generate a power Bi dashboard to increase the revnue of the company.
+# Data set
+# problem Statements 
+# KPIS
+# files upload
+# How to solve the problem statements
+
